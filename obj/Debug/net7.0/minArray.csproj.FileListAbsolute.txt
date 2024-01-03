@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/minArray/bin/Debug/net7.0/minArray
+/Users/macos/Desktop/Operator/minArray/bin/Debug/net7.0/minArray.deps.json
+/Users/macos/Desktop/Operator/minArray/bin/Debug/net7.0/minArray.runtimeconfig.json
+/Users/macos/Desktop/Operator/minArray/bin/Debug/net7.0/minArray.dll
+/Users/macos/Desktop/Operator/minArray/bin/Debug/net7.0/minArray.pdb
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.dll
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/refint/minArray.dll
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.pdb
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/minArray.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/minArray/obj/Debug/net7.0/ref/minArray.dll
